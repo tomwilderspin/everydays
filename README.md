@@ -10,4 +10,6 @@
 
 * [Reverse the Linked List](./26-11-2021_reverse-linked-list/README.md)
 
-* [Reverse the Linked List](./27-11-2021_fibonacci/README.md)
+* [Fibonacci](./27-11-2021_fibonacci/README.md)
+
+* [Typescript Exercises](./28-11-2021_types-n-types/README.md)
