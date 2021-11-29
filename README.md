@@ -13,3 +13,5 @@
 * [Fibonacci](./27-11-2021_fibonacci/README.md)
 
 * [Typescript Exercises](./28-11-2021_types-n-types/README.md)
+
+* [Typescript Module Declarations](./29-11-2021_types-n-types-again/README.md)

@@ -1,4 +1,4 @@
-## Type exercises - 27-Nov-21
+## Type exercises - 28-Nov-21
 
 ### Run through a bunch of type setting exercises, starting easy and getting harder.
 
