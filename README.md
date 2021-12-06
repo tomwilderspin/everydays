@@ -15,3 +15,5 @@
 * [Typescript Exercises](./28-11-2021_types-n-types/README.md)
 
 * [Typescript Module Declarations](./29-11-2021_types-n-types-again/README.md)
+
+* [Functional Typescript](./06-12-2021_functional_typescript/README.md)
